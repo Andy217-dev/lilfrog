@@ -1038,7 +1038,7 @@ var je = u(S),
                                                                     "rgba(255, 255, 255, 0.8)",
                                                                 },
                                                                 children:
-                                                                  "0xComingSoon",
+                                                                  "0x854bB9fbd2f4F72B4C61d1e673486baECfd93319",
                                                               }),
                                                             }),
                                                           },
@@ -1062,7 +1062,7 @@ var je = u(S),
                                                                     "rgba(255, 255, 255, 0.8)",
                                                                 },
                                                                 children:
-                                                                  "0xComingSoon",
+                                                                  "0x854bB9fbd2f4F72B4C61d1e673486baECfd93319",
                                                               }),
                                                             }),
                                                           },
@@ -1089,7 +1089,7 @@ var je = u(S),
                                                                   "rgba(255, 255, 255, 0.8)",
                                                               },
                                                               children:
-                                                                "0xComingSoon",
+                                                                "0x854bB9fbd2f4F72B4C61d1e673486baECfd93319",
                                                             }),
                                                           }),
                                                           className:
@@ -1138,7 +1138,7 @@ var je = u(S),
                                                               PbW7K4Unr:
                                                                 "rgb(0, 0, 0)",
                                                               qIDNNRI0q:
-                                                                "0xComingSoon",
+                                                                "0x854bB9fbd2f4F72B4C61d1e673486baECfd93319",
                                                               rIGEnoYqD:
                                                                 "Copied",
                                                               style: {
