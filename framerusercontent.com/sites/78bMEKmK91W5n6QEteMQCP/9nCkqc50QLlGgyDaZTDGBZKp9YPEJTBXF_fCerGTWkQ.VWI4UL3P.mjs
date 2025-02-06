@@ -1038,7 +1038,7 @@ var je = u(S),
                                                                     "rgba(255, 255, 255, 0.8)",
                                                                 },
                                                                 children:
-                                                                  "0x854bB9fbd2f4F72B4C61d1e673486baECfd93319",
+                                                                  "0x06a55E8C6AeD64121B0d2f40427C2Bd1240282C4",
                                                               }),
                                                             }),
                                                           },
@@ -1062,7 +1062,7 @@ var je = u(S),
                                                                     "rgba(255, 255, 255, 0.8)",
                                                                 },
                                                                 children:
-                                                                  "0x854bB9fbd2f4F72B4C61d1e673486baECfd93319",
+                                                                  "0x06a55E8C6AeD64121B0d2f40427C2Bd1240282C4",
                                                               }),
                                                             }),
                                                           },
@@ -1089,7 +1089,7 @@ var je = u(S),
                                                                   "rgba(255, 255, 255, 0.8)",
                                                               },
                                                               children:
-                                                                "0x854bB9fbd2f4F72B4C61d1e673486baECfd93319",
+                                                                "0x06a55E8C6AeD64121B0d2f40427C2Bd1240282C4",
                                                             }),
                                                           }),
                                                           className:
@@ -1138,7 +1138,7 @@ var je = u(S),
                                                               PbW7K4Unr:
                                                                 "rgb(0, 0, 0)",
                                                               qIDNNRI0q:
-                                                                "0x854bB9fbd2f4F72B4C61d1e673486baECfd93319",
+                                                                "0x06a55E8C6AeD64121B0d2f40427C2Bd1240282C4",
                                                               rIGEnoYqD:
                                                                 "Copied",
                                                               style: {
