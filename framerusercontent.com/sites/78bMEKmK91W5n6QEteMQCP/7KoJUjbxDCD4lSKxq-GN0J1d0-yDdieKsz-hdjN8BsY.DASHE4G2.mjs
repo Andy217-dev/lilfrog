@@ -6119,15 +6119,15 @@ var Ci = P(hr),
                                                                                       "100%",
                                                                                   },
                                                                                 tAnOtrGiG:
-                                                                                  "Community Takeover Since Sep '24",
+                                                                                  "",
                                                                                 variant:
                                                                                   "oSl4e0fPr",
                                                                                 width:
                                                                                   "100%",
                                                                                 XgTiR1Rgh:
-                                                                                  "Community Owned",
+                                                                                  "Token Ownership",
                                                                                 y33U6RPLX:
-                                                                                  "CTO",
+                                                                                  "Renounced",
                                                                               }
                                                                             ),
                                                                         }),

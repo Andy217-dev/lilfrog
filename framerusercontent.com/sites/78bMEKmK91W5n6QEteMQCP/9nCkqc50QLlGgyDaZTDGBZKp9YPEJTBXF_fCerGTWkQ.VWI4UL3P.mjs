@@ -1518,7 +1518,7 @@ var je = u(S),
                                                               },
                                                               children: e(o, {
                                                                 width:
-                                                                  "340.3333px",
+                                                                  "600.3333px",
                                                                 children: e(s, {
                                                                   animate: k,
                                                                   className:
