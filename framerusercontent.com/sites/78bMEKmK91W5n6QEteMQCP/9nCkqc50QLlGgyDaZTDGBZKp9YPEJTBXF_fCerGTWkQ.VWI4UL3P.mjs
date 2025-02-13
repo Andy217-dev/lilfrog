@@ -1038,7 +1038,7 @@ var je = u(S),
                                                                     "rgba(255, 255, 255, 0.8)",
                                                                 },
                                                                 children:
-                                                                  "0x06a55E8C6AeD64121B0d2f40427C2Bd1240282C4",
+                                                                  "0xComingSoon",
                                                               }),
                                                             }),
                                                           },
@@ -1062,7 +1062,7 @@ var je = u(S),
                                                                     "rgba(255, 255, 255, 0.8)",
                                                                 },
                                                                 children:
-                                                                  "0x06a55E8C6AeD64121B0d2f40427C2Bd1240282C4",
+                                                                  "0xComingSoon",
                                                               }),
                                                             }),
                                                           },
@@ -1089,7 +1089,7 @@ var je = u(S),
                                                                   "rgba(255, 255, 255, 0.8)",
                                                               },
                                                               children:
-                                                                "0x06a55E8C6AeD64121B0d2f40427C2Bd1240282C4",
+                                                                "0xComingSoon",
                                                             }),
                                                           }),
                                                           className:
@@ -1138,7 +1138,7 @@ var je = u(S),
                                                               PbW7K4Unr:
                                                                 "rgb(0, 0, 0)",
                                                               qIDNNRI0q:
-                                                                "0x06a55E8C6AeD64121B0d2f40427C2Bd1240282C4",
+                                                                "0xComingSoon",
                                                               rIGEnoYqD:
                                                                 "Copied",
                                                               style: {
@@ -1518,7 +1518,7 @@ var je = u(S),
                                                               },
                                                               children: e(o, {
                                                                 width:
-                                                                  "600.3333px",
+                                                                  "340.3333px",
                                                                 children: e(s, {
                                                                   animate: k,
                                                                   className:
